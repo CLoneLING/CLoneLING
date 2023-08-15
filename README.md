@@ -5,6 +5,6 @@ I am a 13-year-old boy from China.
 #### My interests and hobbies
 I am a programmer skilled in split processing `Batch` and `VBScript`
 #### How to Find Me on the Internet
-[_My Bilibili Account_](https://space.bilibili.com/1065292222?spm_id_from=333.337.search-card.all.click) [![`My`](https://img.shields.io/badge/bilibili-%40CLone灵-yellowgreen/?logo=bilibili)](https://space.bilibili.com/1065292222)
+[` My Bilibili Account `](https://space.bilibili.com/1065292222?spm_id_from=333.337.search-card.all.click) [![`My`](https://img.shields.io/badge/bilibili-%40CLone灵-yellowgreen/?logo=bilibili)](https://space.bilibili.com/1065292222)
 
 
